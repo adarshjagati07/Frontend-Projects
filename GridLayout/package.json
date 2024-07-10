@@ -1,0 +1,14 @@
+{
+	"name": "gridlayout",
+	"version": "1.0.0",
+	"description": "Learing grid layout",
+	"main": "index.js",
+	"scripts": {
+		"watch:sass": "node-sass sass/main.scss css/style.css -w"
+	},
+	"author": "Adarsh jagati",
+	"license": "ISC",
+	"dependencies": {
+		"node-sass": "^9.0.0"
+	}
+}
